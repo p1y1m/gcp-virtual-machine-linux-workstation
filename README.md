@@ -1,6 +1,9 @@
 # GCP Virtual Machine Linux Workstation via Chrome Remote Desktop
 # Author: Pedro Yanez Melendez
 
+![Debian Linux VM on GCP via Chrome Remote Desktop](images/debian-linux-vm.png)
+
+
 ## Overview
 
 This repository documents the creation and configuration of a **Linux Virtual Machine (VM)** on **Google Cloud Platform (GCP)** using **Compute Engine (GCE)**, accessed graphically through **Chrome Remote Desktop**.
