@@ -1,7 +1,7 @@
 # GCP Virtual Machine Linux Workstation via Chrome Remote Desktop
 # Author: Pedro Yanez Melendez
 
-![Debian Linux VM on GCP via Chrome Remote Desktop](images/debian-linux-vm.png)
+![Debian Linux VM on GCP via Chrome Remote Desktop](debian%20linux%20VM.png)
 
 
 ## Overview
