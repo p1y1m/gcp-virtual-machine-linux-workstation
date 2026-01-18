@@ -1,4 +1,4 @@
-# GCP Virtual Machiine Linux Workstation via Chrome Remote Desktop
+# GCP Virtual Machine Linux Workstation via Chrome Remote Desktop
 # Author: Pedro Yanez Melendez
 
 ## Overview
